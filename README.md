@@ -123,7 +123,7 @@ These business questions are documented in the project specification. :contentRe
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/yourusername/walmart-sales-analysis.git
+git clone [https://github.com/yourusername/walmart-sales-analysis.git](https://github.com/ThevinduDha/Walmart-Sales-Data-Analysis-Project.git)
 ```
 
 2. Import the dataset into MySQL.
@@ -157,9 +157,9 @@ Through this project, I learned:
 
 Data Science Undergraduate | SLIIT
 
-GitHub: https://github.com/yourusername
+GitHub: [https://github.com/yourusername](https://github.com/ThevinduDha)
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: www.linkedin.com/in/thevindu-hansaja
 
 ---
 
