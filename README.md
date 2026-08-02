@@ -1,46 +1,61 @@
-# 🛒 Walmart Sales Data Analysis using SQL
+<!-- Header Banner with Animation -->
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0071CE&height=250&section=header&text=Walmart%20Sales%20Data%20Analysis&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%"/>
+</div>
+
+<!-- Animated Typing Text -->
+<div align="center">
+    <a href="https://readme-typing-svg.herokuapp.com"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFC220&center=true&vCenter=true&width=600&lines=Extracting+Business+Insights+with+SQL;Data+Cleaning+%7C+Queries+%7C+Analysis" alt="Typing SVG" /></a>
+</div>
+
+<!-- Tech Stack Badges -->
+<div align="center">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook" />
+    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+</div>
+
+<br>
 
 ## 📌 Project Overview
+> **Empowering business decisions through data-driven insights.**
 
-This project analyzes Walmart sales data using SQL to solve real-world business problems. The goal is to extract meaningful insights that can help improve business decisions related to sales, customer behavior, payment methods, product categories, and branch performance.
+This project analyzes **Walmart sales data** using SQL to solve real-world business problems. The goal is to extract meaningful insights that can help improve business decisions related to sales, customer behavior, payment methods, product categories, and branch performance. 
 
-The project includes data cleaning, database creation, SQL queries, and business analysis.
+The workflow encompasses end-to-end data processing, including **data cleaning**, **database creation**, **advanced SQL querying**, and **business analysis**.
 
 ---
 
 ## 🎯 Objectives
 
-- Analyze customer purchasing behavior
-- Identify the most popular payment methods
-- Evaluate branch performance
-- Find top-performing product categories
-- Analyze customer ratings
-- Understand sales trends
-- Generate business insights using SQL
+<img align="right" src="https://cdn-icons-png.flaticon.com/512/3256/3256114.png" width="150" alt="Data Analysis Icon">
 
----
+- 🛒 **Analyze** customer purchasing behavior.
+- 💳 **Identify** the most popular payment methods.
+- 🏢 **Evaluate** branch performance.
+- 📦 **Find** top-performing product categories.
+- ⭐ **Analyze** customer ratings and satisfaction.
+- 📈 **Understand** sales trends over time.
+- 💡 **Generate** actionable business insights.
 
-## 🛠️ Technologies Used
-
-- SQL
-- MySQL
-- Jupyter Notebook
-- CSV Dataset
+<br>
 
 ---
 
 ## 📂 Project Structure
 
-```
-├── Walmart.csv                     # Original dataset
-├── walmart_clean_data.csv          # Cleaned dataset
-├── walmart_db.ipynb                # Data cleaning & database creation
-├── walmart_Queries.sql             # SQL queries
-├── Walmart Business Problems.pdf   # Business questions
-└── README.md
-```
+```text
+📦 Walmart-Sales-Data-Analysis
+ ┣ 📜 Walmart.csv                  # Original raw dataset
+ ┣ 📜 walmart_clean_data.csv       # Cleaned and processed dataset
+ ┣ 📓 walmart_db.ipynb             # Data cleaning & database creation
+ ┣ 💾 walmart_Queries.sql          # Advanced SQL query scripts
+ ┣ 📄 Walmart Business Problems.pdf# Business questions & requirements
+ ┗ 📖 README.md                    # Project documentation
 
 ---
+```
 
 ## 📊 Dataset
 
