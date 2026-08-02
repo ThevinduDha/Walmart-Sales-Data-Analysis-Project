@@ -172,7 +172,6 @@ Through this project, I learned:
 
 Data Science Undergraduate | SLIIT
 
-GitHub: [https://github.com/yourusername](https://github.com/ThevinduDha)
 
 LinkedIn: www.linkedin.com/in/thevindu-hansaja
 
